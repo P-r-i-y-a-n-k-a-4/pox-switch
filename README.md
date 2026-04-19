@@ -178,6 +178,12 @@ The experiment demonstrates that:
 
 ---
 
+## Screenshots:
+* Terminal 1:
+<img width="940" height="373" alt="image" src="https://github.com/user-attachments/assets/f965394c-251a-4e4c-83b7-cca5251515e9" />
+
+
+
 ## 📎 Notes
 
 * Run `pingall` twice before iperf to ensure MAC learning.
