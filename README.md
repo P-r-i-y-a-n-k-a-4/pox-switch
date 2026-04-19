@@ -180,10 +180,14 @@ The experiment demonstrates that:
 
 ## Screenshots:
 ### Terminal 1:
+
+
 <img width="940" height="373" alt="image" src="https://github.com/user-attachments/assets/f965394c-251a-4e4c-83b7-cca5251515e9" />
 
 ### Terminal 2:
  SINGLE  TOPOLOGY WITH 3 HOSTS:
+
+ 
   <img width="940" height="388" alt="image" src="https://github.com/user-attachments/assets/471b70bd-47a4-4ae0-9ff7-d70030d4a499" />
   
   <img width="940" height="388" alt="image" src="https://github.com/user-attachments/assets/9405653f-f989-4881-aa9c-ecd1fd321ad9" />
@@ -192,7 +196,9 @@ The experiment demonstrates that:
 
 Bandwidth: 7.51 Gbits/sec
 
- LINEAR TOPO WITH 3 HOSTS:
+ LINEAR TOPOLOGY WITH 3 HOSTS:
+
+ 
   <img width="940" height="541" alt="image" src="https://github.com/user-attachments/assets/e1c14881-44d2-4528-a2aa-d74e4c436ede" />
 
   <img width="940" height="876" alt="image" src="https://github.com/user-attachments/assets/b90cbb3e-5ad2-41cc-bd89-5cdbf3c884a4" />
@@ -200,6 +206,8 @@ Bandwidth: 7.51 Gbits/sec
   Bandwidth: 8.64 Gbits/sec
   
  BANDWIDTH-LIMITED TOPOLOGY WITH 3 HOSTS:
+
+ 
 
 <img width="940" height="332" alt="image" src="https://github.com/user-attachments/assets/3551319c-15bd-47f6-8420-8a6fd5d43d5c" />
 
